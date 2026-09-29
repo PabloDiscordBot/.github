@@ -1,157 +1,66 @@
-# Pablo
+<div align="center">
 
-> **Your Discord. Smarter. Secure.**
+# PABLO
 
-Pablo is a modern all-in-one Discord bot built to make communities easier to manage, more engaging, and more connected.
+### Discord Bot
 
-From powerful moderation and AutoMod to music, leveling, tickets, global chat, and a complete web dashboard — Pablo brings everything together in one place.
+**Your Discord. Smarter. Secure.**
 
----
+[![Discord](https://img.shields.io/badge/Discord-Pablo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-22+-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
 
-## ✨ Features
+<br>
 
-### 🛡️ Moderation
-Keep your community safe with powerful moderation tools.
+**Pablo is an all-in-one Discord bot built for modern communities.**
 
-- Bans, timeouts, warns & kicks
-- Message & voice moderation
-- Moderation logs
-- Case management
-- Role hierarchy protection
-- Configurable moderation settings
+Moderation · AutoMod · Music · Radio · Levels · Ranks · Tickets · Global Chat · Dashboard
 
-### 🤖 AutoMod
-Automated protection against unwanted content.
-
-- Anti-Spam
-- Anti-Raid
-- Anti-Link
-- Anti-Invite
-- Mention Spam protection
-- Word & Regex filters
-- Account age checks
-- Raid lockdown
-
-### 🎵 Music
-High-quality music playback powered by Lavalink.
-
-- YouTube & supported sources
-- Playlists
-- Queue system
-- Loop & shuffle
-- Volume control
-- Autocomplete search
-- DJ controls
-- Web dashboard controls
-
-### 📻 Radio
-Turn your Discord server into your own radio station.
-
-- Custom radio streams
-- Global radio stations
-- Server-specific stations
-- Instant station switching
-- 24/7 playback with Premium
-
-### 📈 Leveling & XP
-Give your community a reason to stay active.
-
-- XP for messages, voice activity & commands
-- Configurable XP multipliers
-- Level rewards
-- Role rewards
-- XP boosts
-- Leaderboards
-
-### 🏆 Ranks
-Create a progression system tailored to your community.
-
-- Custom rank names
-- Rank icons
-- Permissions
-- Automatic role assignment
-- Manual role management
-- XP-based progression
-
-### 🌐 Global Chat
-Connect your server with other Pablo communities.
-
-- Cross-server messaging
-- Global profiles
-- Avatar & rank synchronization
-- Opt-in per server
-- Opt-out per user
-- Loop protection
-
-### 🎫 Tickets
-Professional support management for your server.
-
-- Custom ticket categories
-- Private ticket channels
-- Claim & close system
-- Ticket logs
-- HTML transcripts
-- User limits
-- Custom category settings
-
-### 👋 Welcome & Verification
-Make onboarding simple and secure.
-
-- Welcome messages
-- Welcome embeds
-- DM greetings
-- Captcha verification
-- Auto roles
-- Customizable verification
-
-### 🧰 Community Tools
-Useful tools for everyday community management.
-
-- Polls
-- Suggestions
-- Reaction roles
-- Button interactions
-- Embed builder
-- Server utilities
-
-### 📊 Web Dashboard
-Manage your entire server through a modern web interface.
-
-- Discord OAuth2
-- Server configuration
-- Live events
-- Statistics
-- Audit logs
-- Live updates
-- Music controls
+</div>
 
 ---
 
-## 🔐 Built With Security in Mind
+<div align="center">
 
-Pablo is designed with modern Discord communities in mind.
+## ✦ Everything Your Server Needs
 
-> **Your Discord. Smarter. Secure.**
+</div>
 
-Security-focused features include:
+Pablo brings powerful server management, community features and entertainment together in one modern Discord bot.
 
-- Automated moderation
-- Anti-Raid protection
-- Permission checks
-- Role hierarchy protection
-- Raid lockdown
-- Verification systems
-- Detailed audit logs
+Whether you're running a small community or a large network, Pablo gives you the tools to manage, protect and grow your server.
 
 ---
 
-## 🚀 Getting Started
+<div align="center">
 
-Invite Pablo to your Discord server and configure everything directly through the dashboard.
+## 🛡️ Moderation
+
+</div>
+
+Keep your community under control with powerful moderation tools.
+
+| Feature | Description |
+|---|---|
+| 🔨 **Moderation** | Bans, kicks, timeouts, warnings and message moderation |
+| 📋 **Mod Logs** | Detailed moderation and action logging |
+| 🛡️ **Role Protection** | Role hierarchy and permission protection |
+| 🔍 **Case System** | Track and manage moderation cases |
+
+---
+
+<div align="center">
+
+## 🤖 AutoMod
+
+**Automated protection. Less work.**
+
+</div>
+
+Pablo's AutoMod system helps protect your server from spam, raids and unwanted content.
 
 ```text
-1. Invite Pablo
-2. Select your server
-3. Configure your modules
-4. Customize your community
-5. You're ready.
+Anti-Spam       Anti-Raid        Anti-Link
+Anti-Invite     Word Filters     Regex Filters
+Mention Spam    Account Checks   Raid Lockdown
